@@ -1,0 +1,145 @@
+<html>
+
+
+  <link rel="stylesheet" href="main-style.css">
+
+
+  <title>
+    Ореховый Порт прод.
+  </title>
+  <body style="background-color:#f4efe1">
+
+
+    <h1 align="center" style="color:#2c2e2a; font-size: 60px; background:rgb(217, 218, 198); border: 3px dashed rgb(141, 118, 118)">Ореховый порт</h1>
+    <hr style="font-size: 60px;"/>
+    <h2 style="font-size: larger; text-align: center">Наша продукция</h2>
+    <hr style="font-size: 60px;"/>
+
+
+    <button type="button">
+      <a href="https://rutube.ru/video/9e2ce5325e9c3f4b39130ac3218e219f/">Пасхалка</a>
+    </button>
+
+
+    <table style="background-color: antiquewhite;">
+
+
+      <tr>
+        <td>
+          <p style="text-align: center">Товар</p>
+        </td>
+        <td>
+          <p>Наименование</p>
+        </td>NN 
+        <td>
+          <p>Цена<br/>(₽/кг)</p>
+        </td>
+        <td>
+          <p>Описание</p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>
+          <img src="https://avatars.mds.yandex.net/get-mpic/2002045/img_id7265089349246830124.jpeg/orig" height="250" width="370">
+        </td>
+        <td>
+          <h4 style= "text-align:center; border:3px solid #56614c;">Бразильский орех</h4>
+        </td>
+        <td>
+          <h4>599₽</h4>
+        </td>
+        <td>
+          <h4>Он растет на гигантском дереве, которое<br/> может достигать высоты 20-этажного<br/>дома и обхвата больше двух метров.<br/><br/>
+            ㅤВ 100 граммах бразильских орехов содержится 659 ккал.ㅤ
+            <br/>
+            Также в них содержатся:
+            <br/>
+            14,3 г белка;
+            <br/>
+            67,1 г жира;
+            <br/>
+            4,2 г углеводов;
+            <br/>
+            7,5 г клетчатки.</h4>
+           
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>
+          <img src="https://cdn1.ozone.ru/s3/multimedia-4/6145392268.jpg" height="245" width="370">
+        </td>
+        <td>
+          <h4 style="border: 3px solid #56614c;">Кешью</h4>
+        </td>
+        <td>
+          <h4>459₽</h4>
+        </td>
+        <td>
+          <h4>Родина этого ореха - Бразилия.<br/><br/>В 100 г кешью содержится:
+            <br/>
+            5 г белков;
+            <br/>
+            12 г жиров;
+            <br/>
+            9 г углеводов;
+            <br/>
+            1 г пищевых волокон.</h4>
+            <br/>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>
+          <img src="https://selcdn.fedsp.com/ye/1160/1355d9ddaf0b35f6.jpg" height="245" width="370">
+        </td>
+        <td>
+          <h4 style= "border:3px solid #56614c;">Кедровые орешки</h4>
+        </td>
+        <td>
+          <h4>699₽</h4>
+        </td>
+        <td>
+          <h4>ㅤКалорийность кедровых орехов составляет<br/> 673 ккал на 100 граммов продукта.ㅤ</h4>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>
+          <img src="https://cdn1.ozone.ru/s3/multimedia-e/6507981290.jpg" height="245" width="370">
+        </td>
+        <td>
+          <h4 style= "border:3px solid #56614c;">Грецкий орех</h4>
+        </td>
+        <td>
+          <h4>449₽</h4>
+        </td>
+        <td>
+          <h4>В 100 граммах грецких орехов содержится:
+            <br/>
+            656 ккал;
+            <br/>
+            16 г белка;
+            <br/>
+            61 г жира;
+            <br/>
+            11 г углеводов;
+            <br/>
+            6 г клетчатки.</h4>
+        </td>
+      </tr>
+
+
+    </table>
+   
+  </body>
+
+
+  <img src="">
+</html>
+
